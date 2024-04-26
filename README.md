@@ -129,6 +129,12 @@ This project has been done as a requirement for the CSN-254 course (Software Eng
 
 <img width="1440" alt="log-in" src="https://github.com/grandmaster0110/CodeHub/assets/139354543/6fc51a94-cc5b-4d24-ab70-f401582d1caa">
 
+### Chat/Users/Issue
+
+<img width="1440" alt="log-in" src="https://github.com/grandmaster0110/CodeHub/assets/139354543/a894e1b4-1c38-4260-a7c6-b3cb8bcb404e">
+<img width="1440" alt="log-in" src="https://github.com/grandmaster0110/CodeHub/assets/139354543/904a9e13-bbf5-4f9c-a28f-d2ac3df8738c">
+<img width="1440" alt="log-in" src="https://github.com/grandmaster0110/CodeHub/assets/139354543/7d7d6313-b994-423d-9b78-59f8d03717d1">
+
 <a id="scope"></a>
 ## 🔮 Future Scope
 
