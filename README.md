@@ -147,6 +147,9 @@ If you find this helpful or valuable, please consider 🌟 starring the reposito
 <a id="About"></a>
 ## ✍️ About Developers
 
+![WhatsApp Image 2024-04-26 at 19 18 45]()
+
+
 <table>
   <tbody>
     <tr>
@@ -187,11 +190,11 @@ If you find this helpful or valuable, please consider 🌟 starring the reposito
         </a>
       </td>
       <td align="center">
-        <img src="https://github.com/dev5.png" width="120px;" height="120px;" alt="Dev 5"/>
+        <img src="https://github.com/grandmaster0110/CodeHub/assets/139354543/3e4fba5e-8678-49d4-9e29-a34352bde309" width="120px;" height="120px;" alt="Dev 5"/>
         <br />
         <b>Varun Fadia</b>
         <br />
-        <a href="https://github.com/dev5">
+        <a href="https://github.com/varunfadia">
           <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Dev 5"/>
         </a>
       </td>
