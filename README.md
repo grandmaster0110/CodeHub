@@ -6,12 +6,6 @@ CodeHub is a collaborative coding platform designed to cater to the diverse need
 
 This project has been done as a requirement for the CSN-254 course (Software Engineering) of IIT Roorkee. 
 
-## 🔗 Relevant Links
-
-* [Project Presentation](https://docs.google.com)
-* [Project Report](https://docs.google.com)
-* [Video Demo](https://drive.google.com)
-
 ## 📌 Table of Contents
 * [Features](#features)
 * [Tech Stack](#tech-stack)
