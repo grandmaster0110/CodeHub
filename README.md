@@ -61,7 +61,7 @@ This project has been done as a requirement for the CSN-254 course (Software Eng
 <a id="architecture"></a>
 ## 🪢 Flow Diagram
 
-<img width="500" alt="architecture" src="https://github.com/grandmaster0110/CodeHub/assets/139354543/563dc7f1-1a25-4adc-8615-95d2ea5522a6">
+<img width="500" alt="architecture" src="https://github.com/grandmaster0110/CodeHub/assets/139354543/0ef9bf97-71a2-4168-aac4-5e33861c7a13">
 
 <a id="getting-started"></a>
 ## 📦 Getting Started
@@ -146,9 +146,6 @@ If you find this helpful or valuable, please consider 🌟 starring the reposito
 
 <a id="About"></a>
 ## ✍️ About Developers
-
-![WhatsApp Image 2024-04-26 at 19 18 45]()
-
 
 <table>
   <tbody>
